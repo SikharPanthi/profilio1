@@ -27,7 +27,7 @@ const Hero: React.FC = () => {
           Sikhar Panthi
         </h1>
         <p className="text-xl md:text-2xl text-gray-300 mb-8 max-w-2xl mx-auto animate-fade-in" style={{animationDelay: '0.4s'}}>
-          A passionate web developer specializing in HTML, CSS, CJavaScript, and Java.
+          A passionate web developer specializing in HTML, CSS, C, JavaScript and Java.
         </p>
         <div className="flex justify-center animate-fade-in" style={{animationDelay: '0.6s'}}>
           <Button size="lg" className="bg-primary hover:bg-primary/80 text-white">
